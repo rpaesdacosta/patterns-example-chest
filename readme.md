@@ -1,0 +1,1 @@
+Projeto criado para estudos de design patterns em java com exemplos práticos.
